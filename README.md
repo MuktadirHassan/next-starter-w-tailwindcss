@@ -5,7 +5,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, open terminal:
 
 ```bash
-npm run dev
 git clone ...git
 npm init
 npm run dev
